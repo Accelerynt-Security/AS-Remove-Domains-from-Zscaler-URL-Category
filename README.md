@@ -22,8 +22,8 @@ The following items are required under the template settings during deployment:
 * A configured Zscaler [admin account](https://github.com/Accelerynt-Security/AS-Remove-Domains-from-Zscaler-URL-Category#zscaler-admin-account)
 * A Zscaler [API key](https://github.com/Accelerynt-Security/AS-Remove-Domains-from-Zscaler-URL-Category#zscaler-api-key)
 * The name of the [Zscaler custom URL category](https://github.com/Accelerynt-Security/AS-Remove-Domains-from-Zscaler-URL-Category#zscaler-url-category) you wish to remove the Microsoft Sentinel incident domains from
-* A Microsoft Azure [integration account](https://github.com/Accelerynt-Security/AS-Remove-Domains-from-Zscaler-URL-Category#create-an-integration-acount)
-* A Microsoft Azure [key vault secret](https://github.com/Accelerynt-Security/AS-Remove-Domains-from-Zscaler-URL-Category#create-an-azure-key-vault-secret) containing your Okta API Token
+* A Microsoft Azure [integration account](https://github.com/Accelerynt-Security/AS-Remove-Domains-from-Zscaler-URL-Category#create-an-integration-account)
+* A Microsoft Azure [key vault secret](https://github.com/Accelerynt-Security/AS-Remove-Domains-from-Zscaler-URL-Category#create-azure-key-vault-secrets) containing your Okta API Token
 
 # 
 ### Setup
